@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('C:\\Users\\ahAla\\Downloads\\AdsOnbApp\\AdsOnbApp\\keystore\\adsonbd.jks')
+            storePassword '123456'
+            keyAlias 'key0'
+            keyPassword '123456'
+        }
+    }
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 33
+        signingConfig signingConfigs.release
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+    namespace 'cn.refactor.library'
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.7.0-alpha02'
+}

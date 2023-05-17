@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121297047037",
+    "project_id": "adsonbd",
+    "storage_bucket": "adsonbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121297047037:android:f6b2e2f6f62c2f919add94",
+        "android_client_info": {
+          "package_name": "com.adson.bd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121297047037-n48f65uma08b2qt0a5iih24ujo7oubkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Rg86AIkXUNq_Rze4_cgzQSFfT_vpyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121297047037-n48f65uma08b2qt0a5iih24ujo7oubkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

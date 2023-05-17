@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ILoveDeshi.Android_Source_Code.app-mergeDebugResources-64:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ahAla\\.gradle\\caches\\transforms-3\\e08108d4feac3ffcc178d786fb9699df\\transformed\\appcompat-1.7.0-alpha02\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

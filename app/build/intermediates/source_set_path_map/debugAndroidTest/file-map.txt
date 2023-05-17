@@ -1,0 +1,7 @@
+com.ILoveDeshi.Android_Source_Code.test.app-jetified-annotation-experimental-1.1.0-0 C:\Users\lanovo\.gradle\caches\transforms-3\4ed2f91c964e9881d9689c2b01eca92e\transformed\jetified-annotation-experimental-1.1.0\res
+com.ILoveDeshi.Android_Source_Code.test.app-jetified-core-1.4.1-alpha07-1 C:\Users\lanovo\.gradle\caches\transforms-3\a735efe94d2822f4f6a335ef90bf6cb8\transformed\jetified-core-1.4.1-alpha07\res
+com.ILoveDeshi.Android_Source_Code.test.app-androidTest-2 R:\CLInf\AdsOnBD\AdsOnbApp\app\build\generated\res\resValues\androidTest\debug
+com.ILoveDeshi.Android_Source_Code.test.app-androidTest-3 R:\CLInf\AdsOnBD\AdsOnbApp\app\build\generated\res\rs\androidTest\debug
+com.ILoveDeshi.Android_Source_Code.test.app-mergeDebugAndroidTestResources-4 R:\CLInf\AdsOnBD\AdsOnbApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ILoveDeshi.Android_Source_Code.test.app-mergeDebugAndroidTestResources-5 R:\CLInf\AdsOnBD\AdsOnbApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ILoveDeshi.Android_Source_Code.test.app-merged_res-6 R:\CLInf\AdsOnBD\AdsOnbApp\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="about_name_line">#EB0000</color>
+    <color name="about_us_SubText">#FFFFFF</color>
+    <color name="about_us_Text">#FFFFFF</color>
+    <color name="active_bottomBar">#89C6E2</color>
+    <color name="app_background">#1A1D22</color>
+    <color name="app_bg_language">#1A1D22</color>
+    <color name="background_us">#1A1D22</color>
+    <color name="bg_color_language">#F0F0F0</color>
+    <color name="bg_image_pro">#222222</color>
+    <color name="bg_us_adapter">#1A1D22</color>
+    <color name="black">#000000</color>
+    <color name="blackAndBlue">#77B9C1</color>
+    <color name="blue">#89C6E2</color>
+    <color name="blueAndBlue">#89C6E2</color>
+    <color name="blueHome">#1D1F23</color>
+    <color name="border_a">#00BCD4</color>
+    <color name="border_b">#4AD550</color>
+    <color name="bottom_sheet_bg">#1A1D22</color>
+    <color name="button_bg">#1A1D22</color>
+    <color name="button_google_line">#D9372A</color>
+    <color name="button_text_reward_point_fragment">#1A1D22</color>
+    <color name="cardView_comment_bg">#262626</color>
+    <color name="card_bg_them">#424040</color>
+    <color name="cat_bg_home_main">#1A1D22</color>
+    <color name="cat_name_bg">#E4E4E4</color>
+    <color name="check_box">#FFFFFF</color>
+    <color name="check_box_bg_login">#FFFFFF</color>
+    <color name="check_box_check_bg_login">#FFFFFF</color>
+    <color name="check_box_circle_login">#89C6E2</color>
+    <color name="check_box_select">#89C6E2</color>
+    <color name="check_box_tick_login">#89C6E2</color>
+    <color name="colorAccent">#4AD550</color>
+    <color name="colorPrimary">#272A30</color>
+    <color name="colorPrimaryDark">#1A1D22</color>
+    <color name="colorPrimaryLight">#1A1D22</color>
+    <color name="color_reg_verification">#666666</color>
+    <color name="conRelated_scd">#1A1D22</color>
+    <color name="cursor_editText">#FFFFFF</color>
+    <color name="dialog_text">#FFFFFF</color>
+    <color name="dialog_text_button">#FFFFFF</color>
+    <color name="drawer_item">#89C6E2</color>
+    <color name="drawer_item_selected">#89C6E2</color>
+    <color name="dropdown_arrow">#FFFFFF</color>
+    <color name="editText_comment_scd">#FFFFFF</color>
+    <color name="editText_editPro">#FFFFFF</color>
+    <color name="editText_rpc">#FFFFFF</color>
+    <color name="gradientCircle">#89C6E2</color>
+    <color name="gray">#373635</color>
+    <color name="gray_light">#647B95</color>
+    <color name="grd_a">#5ADC8E</color>
+    <color name="grd_b">#2196F3</color>
+    <color name="green">#5FCC71</color>
+    <color name="greenDark">#5FCC64</color>
+    <color name="greenHome">#1D1F23</color>
+    <color name="icon_nf">#89C6E2</color>
+    <color name="imageView_border_pro">#EAEAEA</color>
+    <color name="imageView_border_scd">#73FFFFFF</color>
+    <color name="imageView_comment_adapter">#EAEAEA</color>
+    <color name="imageView_fp">#89C6E2</color>
+    <color name="image_color">#FFFFFF</color>
+    <color name="inactive_bottomBar">#FFFFFF</color>
+    <color name="info">#fcdd7a</color>
+    <color name="info_black">#1A1D22</color>
+    <color name="item_text_pro">#FFFFFF</color>
+    <color name="line_contact_us">#a5a5a5</color>
+    <color name="line_fp">#FFFFFF</color>
+    <color name="line_gif_us">#E98494</color>
+    <color name="line_image_us">#E4B273</color>
+    <color name="line_language">#585858</color>
+    <color name="line_quotes_us">#87E4B5</color>
+    <color name="line_video_us">#85C6E6</color>
+    <color name="ll_detail_status_detail">#80000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color" ns1:override="true">
+        @color/textView_box_color
+    </color>
+    <color name="navigation_drawer">#1A1D22</color>
+    <color name="orange">#FD6436</color>
+    <color name="orangeHome">#1D1F23</color>
+    <color name="pink">#F66F9D</color>
+    <color name="pinkAndBlue">#89C6E2</color>
+    <color name="pinkHome">#1D1F23</color>
+    <color name="progress_drawable_bg_nf">#D1D1D1</color>
+    <color name="progressbar_style">#FFFFFF</color>
+    <color name="purple">#9F05DD</color>
+    <color name="purpleHome">#1D1F23</color>
+    <color name="red">#F53C3C</color>
+    <color name="redHome">#1D1F23</color>
+    <color name="review_bg">#80000000</color>
+    <color name="selectedColor">#89C6E2</color>
+    <color name="selectedColor_home">#89C6E2</color>
+    <color name="sub_cat_bg">#1E1E1E</color>
+    <color name="sub_title_nf">#838383</color>
+    <color name="switch_thumb_unSelect">#ADADAD</color>
+    <color name="tab_indicator_reward_point_fragment">#ffd973</color>
+    <color name="textView_adapter">#FFFFFF</color>
+    <color name="textView_already_register">#FFFFFF</color>
+    <color name="textView_app_color">#89C6E2</color>
+    <color name="textView_box_color">#99FFFFFF</color>
+    <color name="textView_box_select_color">#89C6E2</color>
+    <color name="textView_box_select_color_rpc">#ffd973</color>
+    <color name="textView_cat_adapter">#686868</color>
+    <color name="textView_comment_adapter">#FFFFFF</color>
+    <color name="textView_comment_bg_scd">#1A1D22</color>
+    <color name="textView_contactUs">#FFFFFF</color>
+    <color name="textView_copy_reference_code">#89C6E2</color>
+    <color name="textView_date_history_point">#FFFFFF</color>
+    <color name="textView_delete_comment_adapter">#89C6E2</color>
+    <color name="textView_detail_erc">#FFFFFF</color>
+    <color name="textView_detail_view_ad">#FFFFFF</color>
+    <color name="textView_dialog_update">#FFFFFF</color>
+    <color name="textView_earnPoint_adapter">#FFFFFF</color>
+    <color name="textView_erc">#FFFFFF</color>
+    <color name="textView_fp">#FFFFFF</color>
+    <color name="textView_hint_editPro">#FFFFFF</color>
+    <color name="textView_hint_layout_editPro">#89C6E2</color>
+    <color name="textView_hint_layout_rpc">#ffd973</color>
+    <color name="textView_hint_login">#CFCFCF</color>
+    <color name="textView_hint_register">#FFFFFF</color>
+    <color name="textView_hint_upload">#FFFFFF</color>
+    <color name="textView_home">#FFFFFF</color>
+    <color name="textView_homeCat_adapter">#FFFFFF</color>
+    <color name="textView_homeCat_select_adapter">#89C6E2</color>
+    <color name="textView_language">#FFFFFF</color>
+    <color name="textView_language_adapter">#424242</color>
+    <color name="textView_line_login">#89C6E2</color>
+    <color name="textView_login">#FFFFFF</color>
+    <color name="textView_login_register">#ffd973</color>
+    <color name="textView_noData">#FFFFFF</color>
+    <color name="textView_number_pro">#FFFFFF</color>
+    <color name="textView_point_menu">#ffd973</color>
+    <color name="textView_pro">#FFFFFF</color>
+    <color name="textView_pro_image">#FFFFFF</color>
+    <color name="textView_reference_code">#424242</color>
+    <color name="textView_register">#FFFFFF</color>
+    <color name="textView_rp_adapter">#FFFFFF</color>
+    <color name="textView_rpc">#FFFFFF</color>
+    <color name="textView_scd">#FFFFFF</color>
+    <color name="textView_select_language_adapter">#FFFFFF</color>
+    <color name="textView_setting">#FFFFFF</color>
+    <color name="textView_spinner_item">#FFFFFF</color>
+    <color name="textView_subTitle_bottomSheet">#FFFFFF</color>
+    <color name="textView_subTitle_td">#FFFFFF</color>
+    <color name="textView_sub_av">#FFFFFF</color>
+    <color name="textView_subtitle_adapter">#FFFFFF</color>
+    <color name="textView_them">#FFFFFF</color>
+    <color name="textView_title_adapter">#FFFFFF</color>
+    <color name="textView_title_av">#FFFFFF</color>
+    <color name="textView_title_bottomSheet">#FFFFFF</color>
+    <color name="textView_title_fp">#FFFFFF</color>
+    <color name="textView_title_history_point">#FFFFFF</color>
+    <color name="textView_title_language">#FFFFFF</color>
+    <color name="textView_title_reference_code">#FFFFFF</color>
+    <color name="textView_title_scd">#FFFFFF</color>
+    <color name="textView_title_td">#FFFFFF</color>
+    <color name="textView_title_us">#FFFFFF</color>
+    <color name="textView_totalReward_point_fragment">#ffd973</color>
+    <color name="textView_upload">#FFFFFF</color>
+    <color name="textView_us">#FFFFFF</color>
+    <color name="textView_us_adapter">#FFFFFF</color>
+    <color name="textView_userName_editPro">#FFFFFF</color>
+    <color name="textView_user_follow">#FFFFFF</color>
+    <color name="textView_user_scd">#FFFFFF</color>
+    <color name="textView_verification">#FFFFFF</color>
+    <color name="textView_view_ad">#FFFFFF</color>
+    <color name="textWhiteNDark">#89C6E2</color>
+    <color name="title_nf">#1A1D22</color>
+    <color name="toolbar">#1A1D22</color>
+    <color name="top_user_blue">#61C7D5</color>
+    <color name="top_user_red">#F887AD</color>
+    <color name="transparent">#00000000</color>
+    <color name="tvName">#D1AF46</color>
+    <color name="unselectedColor">#969696</color>
+    <color name="unselectedColor_home">#969696</color>
+    <color name="user_bg_pro">#1A1D22</color>
+    <color name="view_bottom_sheet">#FFFFFF</color>
+    <color name="view_line_pro">#BFFFFFFF</color>
+    <color name="view_login">#89C6E2</color>
+    <color name="view_pro">#222222</color>
+    <color name="view_scd">#73FFFFFF</color>
+    <color name="view_setting">#D7D7D7</color>
+    <color name="welcome_one">#3fba91</color>
+    <color name="welcome_three">#89C6E2</color>
+    <color name="welcome_two">#272A30</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteAndBlue">#89C6E2</color>
+    <color name="whiteAndDark">#252930</color>
+    <color name="whiteAndLightDark">#272A30</color>
+    <color name="yellow">#EBC358</color>
+    <color name="yellowAndDark">#1A1D22</color>
+    <color name="yellowAndGreen">#3fba91</color>
+    <color name="yellow_second">#feb007</color>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.Material3.DayNight" parent="Theme.Material3.Dark"/>
+    <style name="Theme.Material3.DayNight.BottomSheetDialog" parent="Theme.Material3.Dark.BottomSheetDialog"/>
+    <style name="Theme.Material3.DayNight.Dialog" parent="Theme.Material3.Dark.Dialog"/>
+    <style name="Theme.Material3.DayNight.Dialog.Alert" parent="Theme.Material3.Dark.Dialog.Alert"/>
+    <style name="Theme.Material3.DayNight.Dialog.MinWidth" parent="Theme.Material3.Dark.Dialog.MinWidth"/>
+    <style name="Theme.Material3.DayNight.DialogWhenLarge" parent="Theme.Material3.Dark.DialogWhenLarge"/>
+    <style name="Theme.Material3.DayNight.NoActionBar" parent="Theme.Material3.Dark.NoActionBar"/>
+    <style name="Theme.Material3.DynamicColors.DayNight" parent="Theme.Material3.DynamicColors.Dark"/>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.Material3.DynamicColors.DayNight" parent="ThemeOverlay.Material3.DynamicColors.Dark"/>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.NavigationRailView.PrimarySurface" parent="Widget.MaterialComponents.NavigationRailView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+</resources>

@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <string name="Cancel_them"><![CDATA[CANCEL.]]></string>
+    <string name="Let_me_recommend_you_this_application">اسمحوا لي أن أوصيكم بهذا التطبيق</string>
+    <string name="Please_click_BACK_again_to_exit">الرجاء النقر فوق "رجوع" مرة أخرى للخروج</string>
+    <string name="_10">10</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"مفعّلة"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="about_us_Company">شركة</string>
+    <string name="about_us_about">عن</string>
+    <string name="about_us_author">مؤلف</string>
+    <string name="about_us_company_name">ا ب ت ث</string>
+    <string name="about_us_contact">اتصال</string>
+    <string name="about_us_contact_text">1234567890</string>
+    <string name="about_us_email">بريد الالكتروني</string>
+    <string name="about_us_email_text">abcd@abcd.com</string>
+    <string name="about_us_version">الإصدار</string>
+    <string name="about_us_version_text">1.0</string>
+    <string name="about_us_website">موقع الكتروني</string>
+    <string name="about_us_website_text">www.abcd.com</string>
+    <string name="account_approve">تمت الموافقة على حسابك</string>
+    <string name="account_disapprove">تم رفض حسابك</string>
+    <string name="account_pending">التحقق من حسابك معلق</string>
+    <string name="account_status">حالة الحساب</string>
+    <string name="action_logout">تسجيل خروج</string>
+    <string name="active">نشيط</string>
+    <string name="adClick">انقر فوق الإعلان</string>
+    <string name="ad_clicked">لعب الإعلان</string>
+    <string name="ad_remain">الإعلان المتبقي</string>
+    <string name="add_gif_file">أضف ملف gif</string>
+    <string name="add_image_file">إضافة ملف الصورة</string>
+    <string name="add_thumbnail_file">أضف ملف الصورة المصغرة</string>
+    <string name="add_video_file">أضف ملف فيديو</string>
+    <string name="admin_message">رسالة المسؤول</string>
+    <string name="admob_id" translatable="false">ca-app-pub-4273229953550397~2695328401</string>
+    <string name="ads">إعلانات</string>
+    <string name="ads_watched">Ad اللعب</string>
+    <string name="affiliate_product">💎 المنتجات التابعة</string>
+    <string name="allWebsites">🌎 جميع المواقع</string>
+    <string name="all_comment">كل تعليق</string>
+    <string name="allow_permission">إذن السماح</string>
+    <string name="allow_storage">يرجى السماح بإذن التخزين الخارجي</string>
+    <string name="already_have_an_account_yet">لديك حساب بالفعل؟</string>
+    <string name="amount">مقدار</string>
+    <string name="appCoin">نقاط اللعب \n</string>
+    <string name="appPoint">نقاط التثبيت \n</string>
+    <string name="appTime">استخدم الوقت \n</string>
+    <string name="app_install">تثبيت</string>
+    <string name="app_name">المشاهد</string>
+    <string name="app_name_about_us">ا ب ت ث</string>
+    <string name="app_not_found">التطبيق غير مثبت</string>
+    <string name="app_open">فتح</string>
+    <string name="apply_for">التقدم بطلب للحصول</string>
+    <string name="approve">يوافق</string>
+    <string name="approve_date">تاريخ الموافقة</string>
+    <string name="approved">وافق</string>
+    <string name="attach_document">يرجى إرفاق صورة من بطاقة هويتك</string>
+    <string name="bank_detail">يرجى تحديد نوع المعاملة الخاصة بك وملء التفاصيل وسيتصل بك المسؤول قريبًا.</string>
+    <string name="bank_detail_td">تفاصيل البنك</string>
+    <string name="bottom_sheet_option_title">مشاركة وتقرير سريع</string>
+    <string name="bottomsheet_action_collapse">تصغير البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="bottomsheet_drag_handle_clicked">تم النقر مرّتين على مقبض السحب.</string>
+    <string name="bottomsheet_drag_handle_content_description">مقبض السحب</string>
+    <string name="button_text_forgot_password">هل نسيت كلمة السر ؟</string>
+    <string name="button_text_login">تسجيل الدخول</string>
+    <string name="button_text_register">يسجل</string>
+    <string name="button_text_skip">يتخطى</string>
+    <string name="buy_at">في</string>
+    <string name="buy_now">اشتري الآن</string>
+    <string name="cancel">يلغي</string>
+    <string name="cancel_dialog">يلغي</string>
+    <string name="cannot_use_save_permission">لا يمكن استخدام مشاركة وتحميل وتنزيل إذن التخزين في المستقبل</string>
+    <string name="category">فئة</string>
+    <string name="change_pass">غير كلمة السر</string>
+    <string name="change_password">غير كلمة السر</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="choose_one">اختر واحدة</string>
+    <string name="choose_upload_option">اختر خيار التحميل الخاص بك</string>
+    <string name="claim">مطالبة</string>
+    <string name="clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="click_hear">انقر هنا</string>
+    <string name="click_on_ad">التالي هو آخر إعلان ، انقر فوق الإعلان للحصول على مكافأة</string>
+    <string name="click_view">انقر لمشاهدة الفيديو</string>
+    <string name="click_view_web">انقر لزيارة الموقع</string>
+    <string name="collectPoints">اجمع نقاط</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">يمكنك زيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز المعروض أعلاه.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">أعجبك</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string gender="unknown" name="com_facebook_loading">جارٍ التحميل…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_send_button_text">إرسال</string>
+    <string gender="unknown" name="com_facebook_share_button_text">مشاركة</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string name="comment">تعليق</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">تفعيل</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">تحديث</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="conform_password">تطابق كلمة المرور</string>
+    <string name="congrats">"مبروك لكم فوز : "</string>
+    <string name="contact_detail">يرجى إدخال تفاصيل الاتصال بك وسيتصل بك المسؤول قريبًا.</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="copy">ينسخ</string>
+    <string name="copy_quote">نسخ الاقتباس</string>
+    <string name="copy_sub">نسخ الاقتباس</string>
+    <string name="copy_text">نسخ النص</string>
+    <string name="copyright">حقوق النشر</string>
+    <string name="crop_image_activity_no_permissions">إلغاء؛ الأذونات المطلوبة غير ممنوحة</string>
+    <string name="crop_image_activity_title"/>
+    <string name="crop_image_menu_crop">قُصّ</string>
+    <string name="crop_image_menu_flip">اقلب</string>
+    <string name="crop_image_menu_flip_horizontally">اقلب أفقيًا</string>
+    <string name="crop_image_menu_flip_vertically">اقلب رأسيًا</string>
+    <string name="crop_image_menu_rotate_left">أدر عكس اتجاه عقارب الساعة</string>
+    <string name="crop_image_menu_rotate_right">أدر</string>
+    <string name="current_point">النقطة الحالية</string>
+    <string name="custom_settings">إعدادات مخصصة</string>
+    <string name="daily_total_spins">إجمالي الدورات اليومية</string>
+    <string name="dark">مظلم</string>
+    <string name="date">تاريخ</string>
+    <string name="delete">حذف</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="delete_comment">هل أنت متأكد من أنك تريد حذف هذا التعليق</string>
+    <string name="delete_des_dialog">إذا كنت تريد حذف حسابك ، فستطلب الشركة عنوان بريدك الإلكتروني للاستعلام.</string>
+    <string name="delete_msg">هل أنت متأكد أنك تريد حذف</string>
+    <string name="delete_my_account">احذف حسابي</string>
+    <string name="detail_item">تفاصيل البند</string>
+    <string name="detail_rm">التفاصيل</string>
+    <string name="developed">طورت بواسطة</string>
+    <string name="document_first_note">نحتاج إلى مصادقة حساب OnLooker الخاص بك للتحقق من صورتك العامة. تقديم طلب لا يسمح بتحليل حسابك. المصادقة إلزامية للتحليل.</string>
+    <string name="document_note">نطلب بطاقة هوية تحمل صورة بشكل أساسي الاسم وتاريخ الميلاد ، أي صادر عن جهة حكومية (مثل جواز السفر أو بطاقة الهوية الوطنية أو رخصة القيادة) أو مستندات العمل الرسمية لتحليل طلبك.</string>
+    <string name="dont_hack">لا تحاول الاختراق!</string>
+    <string name="dont_have_an_account">ليس لديك حساب؟</string>
+    <string name="download">تحميل</string>
+    <string name="download_later">اكتمل التنزيل أولاً ثم بعد التنزيل الجديد</string>
+    <string name="downloading">جارى التحميل</string>
+    <string name="earn_point">اكسب نقطة</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="enable_push_notification">تفعيل دفع الإخطار</string>
+    <string name="enter_code">ادخل الرمز</string>
+    <string name="enter_quotes">أدخل الاقتباسات</string>
+    <string name="enter_ref_code_des">أدخل الرمز المرجعي لأصدقائك لكسب المزيد من النقاط.</string>
+    <string name="enter_reference_code">أدخل الرمز المرجعي</string>
+    <string name="equal">=</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="error_player">حدث خطأ أثناء بدء تشغيل YouTubePlayer (٪ 1 $ s)</string>
+    <string name="error_player_key">كان هناك خطأ لم يتم العثور على مفتاح youtube</string>
+    <string name="exit">مخرج</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="facebook_app_id" translatable="false">542268970177292</string>
+    <string name="facebook_client_token" translatable="false">bd1779edd377977a6a425c20bc8e2634</string>
+    <string name="facebook_login">فيسبوك</string>
+    <string name="failed_try_again">فشل - الرجاء المحاولة مرة أخرى</string>
+    <string name="faq">التعليمات</string>
+    <string name="favorites">المفضلة</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb542268970177292</string>
+    <string name="featuredChannel">🎥 قناة مميزة</string>
+    <string name="featuredGames">🎲 ألعاب مميزة</string>
+    <string name="file_type_gif">الرجاء تحديد ملف gif</string>
+    <string name="file_type_video">الرجاء تحديد ملف فيديو mp4</string>
+    <string name="follow">يتبع</string>
+    <string name="followers">متابعون</string>
+    <string name="following">التالية</string>
+    <string name="forget_password">نسيت كلمة المرور</string>
+    <string name="forget_password_text">أدخل عنوان بريدك الإلكتروني أدناه وسنرسل إليك بريدًا إلكترونيًا يحتوي على إرشادات حول كيفية تغيير كلمة المرور الخاصة بك</string>
+    <string name="free">حر</string>
+    <string name="full_name">الاسم الكامل</string>
+    <string name="gallery">صالة عرض</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"متنوعة"</string>
+    <string name="gif_category_name">اسم فئة Gif</string>
+    <string name="gif_status">حالة Gif</string>
+    <string name="gif_title">جيف تيتل</string>
+    <string name="gif_type">نوع Gif</string>
+    <string name="google_login">بريد جوجل</string>
+    <string name="got_it">فهمتك</string>
+    <string name="hello">مرحبًا،</string>
+    <string name="hint_tag">على سبيل المثال abc ، cdf ،</string>
+    <string name="history">تاريخ</string>
+    <string name="home">🏠 الصفحة الرئيسية</string>
+    <string name="homes">مسكن</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="image">صورة</string>
+    <string name="image_category_name">اسم فئة الصورة</string>
+    <string name="image_select">الرجاء تحديد الصورة</string>
+    <string name="image_status">حالة الصورة</string>
+    <string name="image_title">عنوان الصورة</string>
+    <string name="image_type">نوع الصورة</string>
+    <string name="init">"تهيئة الإصدار:"</string>
+    <string name="instagram">انستغرام</string>
+    <string name="installNow">تثبيت الآن</string>
+    <string name="install_app">تثبيت التطبيق</string>
+    <string name="install_from_store">يرجى تثبيت هذا التطبيق من متجر Google Play فقط</string>
+    <string name="internet_connection">الاتصال بالإنترنت غير متوفر</string>
+    <string name="isRTL">خاطئة</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="language">لغة</string>
+    <string name="language_des">في هذا التطبيق ، يمكنك تحديد أعز لغة لديك تراها الحالة. إذا لم تقم بتحديد لغتك العزيزة ، فسيتم عرض جميع اللغات.</string>
+    <string name="language_title">اختر لغتك</string>
+    <string name="latestApps">📲 أحدث التطبيقات</string>
+    <string name="latestVideo">🎥 أحدث مقاطع الفيديو</string>
+    <string name="leave_your_comment">اترك تعليقك</string>
+    <string name="light">خفيفة</string>
+    <string name="loading">أرجو الإنتظار....</string>
+    <string name="locally_cached_data">البيانات المخزنة محليًا</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="logout_message">هل أنت متأكد أنك تريد تسجيل الخروج</string>
+    <string name="manage_status">إدارة حالتك</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_24h_suffix">%1$s ساعة</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mb">ميغا بايت</string>
+    <string name="menuAllWebsites">جميع المواقع</string>
+    <string name="menuFeaturedWebsites">المواقع المميزة</string>
+    <string name="menuGames">ألعاب على الانترنت</string>
+    <string name="menuLatest">أحدث التطبيقات</string>
+    <string name="menuPopular">التطبيقات الشعبية</string>
+    <string name="message">رسالة</string>
+    <string name="minimum">الحد الأدنى</string>
+    <string name="minute">" الدقائق"</string>
+    <string name="more_app">المزيد من التطبيقات</string>
+    <string name="mostInstalledApps">📲 التطبيقات الشعبية</string>
+    <string name="msg_approved">تمت الموافقة على حسابك</string>
+    <string name="msg_suspend">تم تعليق حسابك</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
+    <string name="my_download">التنزيل الخاص بي</string>
+    <string name="my_video">الفيديو الخاص بي</string>
+    <string name="name">اسم</string>
+    <string name="nav_sub_title">الترويج للتطبيق والويب</string>
+    <string name="nav_title">المشاهد</string>
+    <string name="navigation_drawer_close">أغلق درج التنقل</string>
+    <string name="navigation_drawer_open">افتح درج التنقل</string>
+    <string name="new_conform_password">كلمة مرور جديدة متوافقة</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="new_password_not_match">كلمة المرور الجديدة وكلمة المرور الجديدة المؤكدة غير متطابقتين</string>
+    <string name="new_request">سيؤدي نشر اسم حساب جديد إلى إلغاء الاسم القديم.</string>
+    <string name="no">لا</string>
+    <string name="no_data_found">لاتوجد بيانات</string>
+    <string name="no_file_selected">الدقة الموصى بها 800x500،650x450</string>
+    <string name="notRun">لم تقم بتشغيل التطبيق لوقت معين.</string>
+    <string name="not_follower">ليس لديك أي مستخدم متابعة</string>
+    <string name="not_following">ليس لديك أي مستخدم متابع</string>
+    <string name="ok">نعم</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="on_review">عند المراجعة</string>
+    <string name="onlineGames">🎲 العاب اون لاين</string>
+    <string name="openApp">فتح التطبيق</string>
+    <string name="openAppFor">"فتح هذا التطبيق لـ"</string>
+    <string name="opt_contain">لقد أرسلنا OTP على بريدك الإلكتروني</string>
+    <string name="other">آخر</string>
+    <string name="password">كلمه السر</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="payment_detail">تفاصيل الدفع</string>
+    <string name="payment_mode">طريقة الدفع</string>
+    <string name="payment_pending">تحقق من التفاصيل بعد الموافقة على الدفع</string>
+    <string name="pending">قيد الانتظار</string>
+    <string name="pending_point">نقطة معلقة</string>
+    <string name="phoneNo">رقم الهاتف</string>
+    <string name="pick_image_intent_chooser_title">اختر مصدرًا</string>
+    <string name="play">لعب</string>
+    <string name="play_game">ألعب لعبة</string>
+    <string name="play_more_app" translatable="false">https://play.google.com/store/apps/dev?id=7157478532572017100</string>
+    <string name="please_enter_comment">الرجاء إدخال تعليق</string>
+    <string name="please_enter_detail">الرجاء إدخال التفاصيل</string>
+    <string name="please_enter_email">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="please_enter_full_name">الرجاء إدخال الاسم الكامل</string>
+    <string name="please_enter_message">الرجاء إدخال الرسالة</string>
+    <string name="please_enter_name">الرجاء إدخال الاسم</string>
+    <string name="please_enter_new_confirm_password">الرجاء إدخال تأكيد كلمة المرور الجديدة</string>
+    <string name="please_enter_new_password">الرجاء إدخال كلمة المرور الجديدة</string>
+    <string name="please_enter_old_password">الرجاء إدخال كلمة المرور القديمة</string>
+    <string name="please_enter_password">الرجاء إدخال كلمة المرور</string>
+    <string name="please_enter_phone">الرجاء إدخال رقم الهاتف</string>
+    <string name="please_enter_quotes">الرجاء إدخال الاقتباسات</string>
+    <string name="please_enter_reference_code">الرجاء إدخال الرمز المرجعي</string>
+    <string name="please_enter_title">الرجاء إدخال العنوان</string>
+    <string name="please_enter_trax">الرجاء إدخال معرف المعاملة وطريقة الدفع</string>
+    <string name="please_enter_verification_code">الرجاء إدخال رمز التحقق</string>
+    <string name="please_install_facebook">الرجاء تثبيت Facebook</string>
+    <string name="please_install_fb_messenger">الرجاء تثبيت Facebook Messenger</string>
+    <string name="please_install_instagram">الرجاء تثبيت Instagram</string>
+    <string name="please_install_twitter">الرجاء تثبيت Twitter</string>
+    <string name="please_install_whatsapp">الرجاء تثبيت WhatsApp</string>
+    <string name="please_select_category">الرجاء تحديد الفئة</string>
+    <string name="please_select_contact">الرجاء تحديد نوع الاتصال</string>
+    <string name="please_select_gif">الرجاء تحديد نوع gif</string>
+    <string name="please_select_image">الرجاء تحديد الصورة</string>
+    <string name="please_select_image_type">الرجاء تحديد نوع الصورة</string>
+    <string name="please_select_language">الرجاء تحديد اللغة</string>
+    <string name="please_select_option">الرجاء تحديد الخيار</string>
+    <string name="please_select_payment">الرجاء تحديد الدفع</string>
+    <string name="please_select_video">الرجاء تحديد الفيديو</string>
+    <string name="please_wait_more">الإعلانات لم يتم تحميلها بعد</string>
+    <string name="point">نقطة</string>
+    <string name="point_require">نقطة المكافأة مطلوبة للمطالبة</string>
+    <string name="point_status">حالة النقطة</string>
+    <string name="post">بريد</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="quote_status">حالة الاقتباسات</string>
+    <string name="quotes_category_name">يقتبس اسم الفئة</string>
+    <string name="ratePoint">معدل النقاط \n</string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="rating_apps">مراجعة التطبيقات</string>
+    <string name="re_register">سجل مرة أخرى</string>
+    <string name="ready_to_upload">جاهز للتحميل ....</string>
+    <string name="referal">الإحالة</string>
+    <string name="reference_code">الكود المرجعي</string>
+    <string name="reference_code_detail">شارك الرمز المرجعي للآخرين واكسب المزيد من النقاط.</string>
+    <string name="register_login_text">تسجيل الدخول</string>
+    <string name="reject">رفض</string>
+    <string name="reject_date">تاريخ الرفض</string>
+    <string name="reject_request">تم رفض طلبك للتحقق من الحساب. يرجى مراجعة المستندات والتفاصيل الخاصة بك وتقديم المستندات مرة أخرى للموافقة عليها.</string>
+    <string name="rejected">مرفوض</string>
+    <string name="related_status">الحالة ذات الصلة</string>
+    <string name="remaining_spins_today">يدور المتبقية اليوم</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="remove_image">إزالة الصورة</string>
+    <string name="report">تقرير</string>
+    <string name="report_sub">سوف نتحقق من الخطأ</string>
+    <string name="request_date">تاريخ الطلب</string>
+    <string name="request_verification">طلب التحقق</string>
+    <string name="resend_your_otp">إعادة إرسال Otp الخاص بك</string>
+    <string name="resubmit">إعادة الإرسال</string>
+    <string name="review_app">مراجعة التطبيق</string>
+    <string name="reward">جائزة او مكافاة</string>
+    <string name="reward_money">مكافأة المال</string>
+    <string name="reward_point">نقطة مكافأة</string>
+    <string name="reward_point_claim">المطالبة بنقاط المكافأة</string>
+    <string name="searc">يبحث</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="see_all">اظهار الكل</string>
+    <string name="select_contact_type">حدد نوع الاتصال</string>
+    <string name="select_payment_type">اختر طريقة الدفع</string>
+    <string name="selected_category">اختر الفئة</string>
+    <string name="send">يرسل</string>
+    <string name="send_info">إرسال معلومات الاستعراض</string>
+    <string name="server_time_out">انتهت مهلة الخادم ، يرجى المحاولة مرة أخرى باستخدام أحدث بروتوكول otp</string>
+    <string name="setting">إعدادات</string>
+    <string name="sexual">جنسي</string>
+    <string name="share">شارك</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="share_is_caring">المشاركة تعنى الاهتمام</string>
+    <string name="share_to">شارك في</string>
+    <string name="size">بحجم</string>
+    <string name="skip">يتخطى</string>
+    <string name="space">""</string>
+    <string name="spinner">عجلة الحظ</string>
+    <string name="start_task">ابدأ المهمة</string>
+    <string name="status">حالة</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_rate">الحالة \n</string>
+    <string name="status_saver">Whatsapp Status Saver</string>
+    <string name="sub_done">مشترك بالفعل</string>
+    <string name="sub_for">الاشتراك</string>
+    <string name="sub_login">تسجيل الدخول بحساب gmail الخاص بك الذي تريد الاشتراك في قناة يوتيوب!</string>
+    <string name="subject">موضوعات</string>
+    <string name="submit">يُقدِّم</string>
+    <string name="subscribe">الإشتراك</string>
+    <string name="subscribed">مشترك</string>
+    <string name="subscribers">🎥 قنوات الاشتراك</string>
+    <string name="success">النجاح</string>
+    <string name="suspend">تعليق</string>
+    <string name="system_default">النظام الافتراضي</string>
+    <string name="tab_to_copy">اضغط للنسخ</string>
+    <string name="tag">بطاقة شعار</string>
+    <string name="task_available">إجمالي المهام</string>
+    <string name="task_completed">اكتملت مهمة اليوم</string>
+    <string name="task_completed_not">لم تكتمل المهمة!</string>
+    <string name="task_list">قائمة المهام</string>
+    <string name="tell_us">أخبرنا</string>
+    <string name="textView_forget_password">نسيت كلمة المرور ؟</string>
+    <string name="text_continue">يكمل</string>
+    <string name="text_style">نمط النص</string>
+    <string name="theme">سمة</string>
+    <string name="title_verification">أدخل رمز التحقق</string>
+    <string name="toGetPoint">" للحصول على "</string>
+    <string name="topUser">🙋‍♂️ أهم المستخدمين</string>
+    <string name="top_user_List">أفضل مستخدم ليدربورد</string>
+    <string name="totalInstall">"إجمالي المثبت"</string>
+    <string name="totalPoint">مجمل النقاط :</string>
+    <string name="total_rate">تم التقييم بواسطة \n</string>
+    <string name="unfollow">الغاء المتابعة</string>
+    <string name="update">تحديث</string>
+    <string name="upload">تحميل</string>
+    <string name="upload_folder_error">حدد من مدير الملفات ثم سيعمل</string>
+    <string name="upload_gif">تحميل Gif</string>
+    <string name="upload_image">تحميل الصور</string>
+    <string name="upload_quotes">تحميل الاقتباسات</string>
+    <string name="upload_rate">تحميل screesnhot مصنفة من متجر Google Play</string>
+    <string name="upload_status">حالة التحميل</string>
+    <string name="upload_status_des">اختر مقاطع الفيديو والصور والاقتباسات وصور GIF الأكثر رغبة.</string>
+    <string name="upload_video">رفع فيديو</string>
+    <string name="userName">♔ الاسم</string>
+    <string name="user_not_instagram_link">لم يقم المستخدم بإضافة رابط الملف الشخصي في instagram</string>
+    <string name="user_not_youtube_link">لم يقم المستخدم بإضافة رابط ملف تعريف youtube</string>
+    <string name="user_point">نقطة المستخدم</string>
+    <string name="value">0</string>
+    <string name="verification">تَحَقّق</string>
+    <string name="verification_message">رمز التحقق لا يتطابق</string>
+    <string name="verification_status">حالة التحقق</string>
+    <string name="verify">تحقق</string>
+    <string name="video">فيديو</string>
+    <string name="video_category_name">اسم فئة الفيديو</string>
+    <string name="video_status">حالة الفيديو</string>
+    <string name="video_title">عنوان مقطع الفيديو</string>
+    <string name="view_ad_detail">إذا كنت ترغب في مشاهدة إعلانات فيديو المكافآت ، فاضغط على "نعم" وإلا لا.</string>
+    <string name="view_ad_title">مشاهدة إعلان فيديو مكافأة؟</string>
+    <string name="view_all">👁️ عرض المزيد</string>
+    <string name="view_web">مشاهدة ملف Web</string>
+    <string name="vpn_off">يرجى إيقاف VPN لإكمال هذه المهمة</string>
+    <string name="vpn_on">الرجاء استخدام VPN لإكمال هذه المهمة</string>
+    <string name="watch_ad">تشغيل الإعلان</string>
+    <string name="watermark">مضيفا العلامة المائية</string>
+    <string name="webOpen">زيارة الويب</string>
+    <string name="websites">🌎 المواقع المميزة</string>
+    <string name="welcome_description_four">استمتع بمشاهدة مقاطع فيديو YouTube الأحدث والأكثر رواجًا يوميًا مجانًا</string>
+    <string name="welcome_description_one"><![CDATA[قم بتثبيت تطبيق جديد في جميع أنحاء العالم واستمتع بأحدث الأشياء .. ]]]><![CDATA[]>]]></string>
+    <string name="welcome_description_three">استكشف مواقع الويب الجديدة يوميًا وتواصل مع ما يحدث من حولك.</string>
+    <string name="welcome_description_two"><![CDATA[ استمتع بـ 200 لعبة HTML على الإنترنت لجميع الفئات لجميع الفئات العمرية .. ]]></string>
+    <string name="welcome_four_title">شاهد فيديوهات</string>
+    <string name="welcome_title_one">عمليات تثبيت التطبيق</string>
+    <string name="welcome_title_three">زيارة الموقع</string>
+    <string name="welcome_title_two">يلعب العاب</string>
+    <string name="whatsapp">ال WhatsApp</string>
+    <string name="withdrawal_history">تاريخ السحب</string>
+    <string name="wp1" translatable="false">"Hi this is "</string>
+    <string name="wp2" translatable="false">"I'm using your app "</string>
+    <string name="wrong">حدث خطأ ما يرجى المحاولة مرة أخرى في وقت لاحق</string>
+    <string name="yes">نعم</string>
+    <string name="you_have">عندك</string>
+    <string name="you_have_already_download_video">لقد قمت بالفعل بتنزيل الفيديو</string>
+    <string name="you_have_not_like_video">لا يمكن للمستخدم أن يحب مقاطع الفيديو الخاصة به</string>
+    <string name="you_have_not_login">لم تقم بتسجيل الدخول</string>
+    <string name="you_have_not_onFollow">لا يمكنك متابعة نفسك</string>
+    <string name="your_message">رسالتك</string>
+    <string name="your_reference_code">رمز المرجع الخاص بك</string>
+    <string name="youtube">موقع YouTube</string>
+    <string name="youtube_watch">أشرطة فيديو يوتيوب</string>
+</resources>

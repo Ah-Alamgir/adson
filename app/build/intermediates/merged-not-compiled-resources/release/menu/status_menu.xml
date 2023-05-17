@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchThings"
+        android:icon="@drawable/ic_search"
+        android:title="@string/theme"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/faqMenu"
+        android:icon="@drawable/ic_info"
+        android:title="@string/faq"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/download_status_menu"
+        android:icon="@drawable/ic_theme"
+        android:title="@string/theme"
+        app:showAsAction="always" />
+</menu>

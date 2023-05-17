@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_us"
+    tools:context=".activity.GoogleSignInActivity">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/sub_login"
+        android:textSize="20sp"
+        android:textColor="@color/pinkAndBlue"
+        android:layout_margin="@dimen/margin_10"
+        android:paddingBottom="@dimen/margin_50"
+        android:layout_above="@+id/linearLayout_google_login"
+        android:textStyle="bold">
+
+    </com.google.android.material.textview.MaterialTextView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_google_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20sp"
+        android:background="@drawable/button_google_bg"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:padding="5dp"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/margin_10"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/google_ic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_10"
+            android:layout_marginEnd="@dimen/margin_10"
+            android:onClick="signIn"
+            android:text="Login Now"
+            android:textColor="@color/orange"
+            android:textSize="40sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </LinearLayout>
+
+</RelativeLayout>
